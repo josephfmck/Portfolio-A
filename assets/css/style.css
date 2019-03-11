@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.img-fluid {
+    max-width: 61%;
+}
+
+#header-title {
+    text-align: center;
+    color: white;
+}
+
+#header-container {
+    width: 25%;
+    padding: 25px 25px;
+}
+
+#prof-image {
+    /*profile picture rotated*/
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+#description-para {
+    text-align: left;
+}
