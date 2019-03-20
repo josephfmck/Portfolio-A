@@ -17,6 +17,7 @@
 #header-title {
     text-align: center;
     color: white;
+    color: black
 }
 
 #header-container {
@@ -51,19 +52,99 @@
 /*             */
 
 .navbar {
+    background: #336B87;
+    background: #763626;
+    background: #2A3132;  
+    background: #90AFC5; 
+    background: white;
+}
+
+#about-column {
+    background: #763626;
+    background: #2A3132;  
+    background: #90AFC5;
+    background: #336B87;
+    background: white;
+ 
+}
+
+a {
+    background: #336B87;
+    background: #90AFC5;
+    background: #763626;
+    background: #2A3132;
+}
+
+#description-body {
+    background: #763626;
+    background: #2A3132;
+    background: #336B87;
+    background: #90AFC5;
+    background: white;
+}
+
+.card-title {
+    background: #90AFC5;
+    background: #763626;
+    background: #2A3132;
+    background: #336B87;
+
+    color: #336B87;
+    color: #90AFC5;
+    color: #2A3132;
+    color: #763626;
+    color: white;
+}
+
+.card-text {
+    background: #336B87;
     background: #90AFC5;
     background: #763626;
     background: #2A3132;
 
+    color: #336B87;
+    color: #90AFC5;
+    color: #2A3132;
+    color: #763626;
+    color: white;
 }
 
-#about-column {
+
+#projects-row {
+    background: #763626;
+    background: #2A3132;
     background: #336B87;
     background: #90AFC5;
-    background: #763626;
-    background: #2A3132;    
+    background: white;
 }
 
+#heading-row {
+    background: #763626;
+    background: #2A3132;
+    background: #336B87;
+    background: #90AFC5;
+    background: white;
+}
+
+body {
+    background: #763626;
+    background: #2A3132;
+    background: #336B87;
+    background: #90AFC5;
+}
 /*Typography/fonts*/
 /*                */
+
+
+/*Sizing*/
+/*      */
+
+.container {
+    max-width: 97%
+}
+
+.row {
+    margin: 0;
+}
+
 
