@@ -2,6 +2,8 @@
     box-sizing: border-box;
 }
 
+
+
 .img-fluid {
     max-width: 61%;
 }
@@ -34,3 +36,34 @@
 #description-para {
     text-align: left;
 }
+
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.navbar {
+    padding: 0px;
+    background: #336B87;
+}
+
+/*Color Changes*/
+/*             */
+
+.navbar {
+    background: #90AFC5;
+    background: #763626;
+    background: #2A3132;
+
+}
+
+#about-column {
+    background: #336B87;
+    background: #90AFC5;
+    background: #763626;
+    background: #2A3132;    
+}
+
+/*Typography/fonts*/
+/*                */
+
